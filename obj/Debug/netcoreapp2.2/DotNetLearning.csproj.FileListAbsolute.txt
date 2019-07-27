@@ -1,0 +1,14 @@
+C:\Users\Zupper\Desktop\DotNetLearning\bin\Debug\netcoreapp2.2\DotNetLearning.deps.json
+C:\Users\Zupper\Desktop\DotNetLearning\bin\Debug\netcoreapp2.2\DotNetLearning.runtimeconfig.json
+C:\Users\Zupper\Desktop\DotNetLearning\bin\Debug\netcoreapp2.2\DotNetLearning.runtimeconfig.dev.json
+c:\Users\Zupper\Desktop\DotNetLearning\bin\Debug\netcoreapp2.2\DotNetLearning.dll
+c:\Users\Zupper\Desktop\DotNetLearning\bin\Debug\netcoreapp2.2\DotNetLearning.pdb
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.csprojAssemblyReference.cache
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.csproj.CoreCompileInputs.cache
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.RazorAssemblyInfo.cache
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.RazorAssemblyInfo.cs
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.AssemblyInfoInputs.cache
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.AssemblyInfo.cs
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.RazorTargetAssemblyInfo.cache
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.dll
+c:\Users\Zupper\Desktop\DotNetLearning\obj\Debug\netcoreapp2.2\DotNetLearning.pdb
